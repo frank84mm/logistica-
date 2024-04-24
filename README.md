@@ -1,2 +1,2 @@
 # logistica-
-proyecto de ligistica para calcular el envio de mercancia
+proyecto de logistica para calcular el envio de mercancia
